@@ -1,0 +1,28 @@
+#code-output {
+    color: darkgreen;
+    border-style: solid;
+    font-size: 10px;
+}
+
+#token-output {
+    color: darkgreen;
+    border-style: solid;
+    font-size: 10px;
+}
+h1 {
+    border-bottom-style: solid;
+}
+h2 {
+    color:green;
+}
+output {
+    font-size: 20px;
+    border-bottom-style: solid;
+}
+body {
+    background-color: lightgray;
+}
+#output {
+    font-size: 20px;
+    font: bold;
+}
